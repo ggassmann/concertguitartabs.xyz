@@ -91,7 +91,7 @@ return [
     |
     */
 
-    'key' => 'CONCERTGUITARTABCONCERTGUITARTAB',
+    'key' => env('APP_KEY', false),
 
     'cipher' => 'AES-256-CBC',
 
