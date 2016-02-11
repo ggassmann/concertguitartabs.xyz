@@ -1,0 +1,1171 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"Part",
+				"ParticleManager_CreateParticle"
+			],
+			[
+				"modifier_nox",
+				"modifier_nox_aeterna"
+			],
+			[
+				"PATTACH_AB",
+				"PATTACH_ABSORIGIN_FOLLOW"
+			],
+			[
+				"Kill",
+				"Kill"
+			],
+			[
+				"DOTA_TEAM",
+				"DOTA_TEAM_GOODGUYS"
+			],
+			[
+				"PATT",
+				"PATTACH_CUSTOMORIGIN"
+			],
+			[
+				"skin_",
+				"skin_image_panel"
+			],
+			[
+				"ski",
+				"skin_image_panel"
+			],
+			[
+				"lo",
+				"loadout_stats"
+			],
+			[
+				"player_",
+				"player_id_to_64"
+			],
+			[
+				"Pla",
+				"PlayerResource"
+			],
+			[
+				"mouse",
+				"mouse_over_entity"
+			],
+			[
+				"target",
+				"target_info"
+			],
+			[
+				"targ",
+				"target_info"
+			],
+			[
+				"SendServer",
+				"Send_ServerToPlayer"
+			],
+			[
+				"Custom",
+				"CustomGameEventManager"
+			],
+			[
+				"targe",
+				"target_particle"
+			],
+			[
+				"multipl",
+				"multiplied_power"
+			],
+			[
+				"Aplp",
+				"ApplyDataDrivenModifier	No Description Set"
+			],
+			[
+				"modifier",
+				"modifier_pure_shaper_compound_interest_stack"
+			],
+			[
+				"DOTA_",
+				"DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+			],
+			[
+				"pure_",
+				"pure_blood_modifier_ticker"
+			],
+			[
+				"modif",
+				"modifier_name"
+			],
+			[
+				"abili",
+				"ability_name"
+			],
+			[
+				"pur",
+				"pure_blood_modifier"
+			],
+			[
+				"pure",
+				"pure_blood_modifier_ticker"
+			],
+			[
+				"heal",
+				"heal_total"
+			],
+			[
+				"GetModf",
+				"GetModifierStackCount"
+			],
+			[
+				"create",
+				"CreateTimer"
+			],
+			[
+				"CastAbil",
+				"CastAbility	No Description Set"
+			],
+			[
+				"GetControll",
+				"GetMainControllingPlayer	Returns the player ID of the controlling player."
+			],
+			[
+				"CastAbility",
+				"CastAbilityImmediately	Cast an ability immediately."
+			],
+			[
+				"jungl",
+				"jungle_buff_reduction_count"
+			],
+			[
+				"jung",
+				"jungle_buff_reduction_count"
+			],
+			[
+				"SetCuros",
+				"SetCursorTargetingNothing	No Description Set"
+			],
+			[
+				"GetSelected",
+				"GetSelectedHeroEntity	No Description Set"
+			],
+			[
+				"GetPlayer",
+				"GetPlayer	No Description Set"
+			],
+			[
+				"Cast",
+				"CastAbilityOnPosition	Cast an ability on a position."
+			],
+			[
+				"GetAbility",
+				"GetAbilityTargetFlags	No Description Set"
+			],
+			[
+				"modifi",
+				"modifier_mad_king_finale_slow"
+			],
+			[
+				"cast",
+				"CastRange"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"attac",
+				"attack_move_target"
+			],
+			[
+				"SetExp",
+				"SetDeathXP	Set the XP bounty on this unit"
+			],
+			[
+				"universal_att",
+				"universal_attack_recaster"
+			],
+			[
+				"DOTA_UNIT_ATTAK",
+				"DOTA_UNIT_ORDER_ATTACK_MOVE"
+			],
+			[
+				"pyr",
+				"pyre_stacks"
+			],
+			[
+				"bush_",
+				"bush_origin"
+			],
+			[
+				"aff",
+				"affected_unit"
+			],
+			[
+				"applied_",
+				"applied_to_target"
+			],
+			[
+				"Random",
+				"RandomFloat	Get a random ''float'' within a range"
+			],
+			[
+				"pi",
+				"pierced_enemies"
+			],
+			[
+				"SetPAt",
+				"SetParticleControl	Set the control point data for a control on a particle effect"
+			],
+			[
+				"epl",
+				"expl_hits"
+			],
+			[
+				"damage_t",
+				"damage_type"
+			],
+			[
+				"attack",
+				"attack_landed_event"
+			],
+			[
+				"item_bui",
+				"item_built_from_t2"
+			],
+			[
+				"local",
+				"local_role"
+			],
+			[
+				"GetAbil",
+				"GetAbilityName	No Description Set"
+			],
+			[
+				"SetHealth",
+				"SetHealth	No Description Set"
+			],
+			[
+				"unit",
+				"unitMelee"
+			],
+			[
+				"tick",
+				"tick_guardian_level"
+			],
+			[
+				"guar",
+				"guardian_level"
+			],
+			[
+				"kill",
+				"killedUnit"
+			],
+			[
+				"Def",
+				"Defenses"
+			],
+			[
+				"mod",
+				"modifier_black_ice"
+			],
+			[
+				"abi",
+				"ability_frost_shaper"
+			],
+			[
+				"SetPAre",
+				"SetParticleControl	Set the control point data for a control on a particle effect"
+			],
+			[
+				"Preca",
+				"PrecacheUnitByNameAsync	Asynchronously precaches a DOTA unit by its dota_npc_units.txt name, provides a callback when it's finished."
+			],
+			[
+				"playerId",
+				"playerIDToIndex"
+			],
+			[
+				"playerto",
+				"playerIDToTeam"
+			],
+			[
+				"curr",
+				"currentMortalIndex"
+			],
+			[
+				"selec",
+				"selected_shapers"
+			],
+			[
+				"sele",
+				"selected_roles"
+			],
+			[
+				"dota_hero",
+				"npc_dota_hero_enigma"
+			],
+			[
+				"player",
+				"player_panel_bottom"
+			],
+			[
+				"Char",
+				"CharSelectInspector"
+			],
+			[
+				"char",
+				"char-button"
+			],
+			[
+				"CharSelec",
+				"CharSelectAreaRow"
+			],
+			[
+				"char_",
+				"char_y"
+			],
+			[
+				"shap",
+				"shaper_choices_table"
+			],
+			[
+				"cr",
+				"currentMortalIndex"
+			],
+			[
+				"re",
+				"RebuildPlayers"
+			],
+			[
+				"SetModel",
+				"SetModelScale	Sets the model's scale to "
+			],
+			[
+				"PrecacheUnit",
+				"PrecacheUnitByNameSync	Precaches a DOTA unit by its dota_npc_units.txt name"
+			],
+			[
+				"frost_",
+				"frost_ticker"
+			],
+			[
+				"reso",
+				"resource_width"
+			],
+			[
+				"resource",
+				"resource_modifier"
+			],
+			[
+				"abil",
+				"abil"
+			],
+			[
+				"modifier_",
+				"modifier_soul_collector"
+			],
+			[
+				"dec",
+				"decay_taken"
+			],
+			[
+				"item",
+				"item_strife_power_bonus"
+			],
+			[
+				"strife",
+				"strife_health_bonuses"
+			],
+			[
+				"bonus",
+				"bonus_power_per"
+			],
+			[
+				"target_",
+				"target_power"
+			],
+			[
+				"item_Stri",
+				"item_strife_stacking"
+			],
+			[
+				"Apply",
+				"ApplyDataDrivenModifier	No Description Set"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"GetCooldown",
+				"GetCooldownTimeRemaining	No Description Set"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"widt",
+				"width_percent"
+			],
+			[
+				"local_buff",
+				"local_buff_timeout_panel"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"getAb",
+				"GetAbilityName"
+			],
+			[
+				"GetAbili",
+				"GetAbilityName"
+			],
+			[
+				"buf",
+				"buff_stacks"
+			],
+			[
+				"buff",
+				"buff_index"
+			],
+			[
+				"local_",
+				"local_entity"
+			],
+			[
+				"SetAbiliti",
+				"SetAbilityPoints	Sets the current unspent ability point's."
+			],
+			[
+				"color",
+				"background-color"
+			],
+			[
+				"item_",
+				"item_index"
+			],
+			[
+				"loca",
+				"local_pid"
+			],
+			[
+				"OnUpdate",
+				"OnUpdateInventory"
+			],
+			[
+				"found",
+				"found_item"
+			],
+			[
+				"Is",
+				"IsTouching	Checks whether the passed entity is touching the trigger."
+			],
+			[
+				"found_",
+				"found_t2_item"
+			],
+			[
+				"ge",
+				"GetCost"
+			],
+			[
+				"GoldCost",
+				"GetGoldCost	No Description Set"
+			],
+			[
+				"GetGold",
+				"GetGoldCost	No Description Set"
+			],
+			[
+				"Item",
+				"CreateItem"
+			],
+			[
+				"ins",
+				"Insight"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"align",
+				"vertical-align"
+			],
+			[
+				"Ra",
+				"RandomFloat	Get a random ''float'' within a range"
+			],
+			[
+				"GetAttackDam",
+				"GetAverageTrueAttackDamage	Returns the average value of the minimum and maximum damage values."
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/wamp/bin/apache/apache2.4.9/conf/httpd.conf",
+			"settings":
+			{
+				"buffer_size": 20634,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/music.blade.php",
+			"settings":
+			{
+				"buffer_size": 7805,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/tab.blade.php",
+			"settings":
+			{
+				"buffer_size": 367,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/layouts/app.blade.php",
+			"settings":
+			{
+				"buffer_size": 1597,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Http/routes.php",
+			"settings":
+			{
+				"buffer_size": 1637,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 213.0,
+		"last_filter": "package inst",
+		"selected_items":
+		[
+			[
+				"package inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 549.0
+	},
+	"console":
+	{
+		"height": 234.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/blog",
+		"/C/wamp/www/blog/app",
+		"/C/wamp/www/blog/app/Http",
+		"/C/wamp/www/blog/public"
+	],
+	"file_history":
+	[
+		"/C/wamp/www/blog/database/migrations/2016_01_30_225933_add_midi_to_music.php",
+		"/C/wamp/www/blog/database/migrations/2016_01_30_231635_add_videos_to_music.php",
+		"/C/wamp/www/blog/app/Http/routes.php",
+		"/C/wamp/www/blog/resources/views/about.blade.php",
+		"/C/wamp/www/index.php",
+		"/C/wamp/bin/apache/apache2.4.9/conf/httpd.conf",
+		"/C/wamp/www/blog/resources/views/music.blade.php",
+		"/C/wamp/www/blog/database/migrations/2016_01_30_205318_create_passphrase_table.php",
+		"/C/wamp/www/blog/storage/logs/laravel.log",
+		"/C/wamp/www/blog/app/Providers/EqualityValidatorServiceProvider.php",
+		"/C/wamp/www/blog/resources/views/layouts/app.blade.php",
+		"/C/wamp/www/blog/database/migrations/2016_01_30_200355_add_tabs_to_music.php",
+		"/C/wamp/www/blog/database/migrations/2016_01_30_200322_create_music_table.php",
+		"/C/wamp/www/blog/database/migrations/2016_01_30_200245_create_music_table.php",
+		"/C/wamp/www/blog/database/migrations/2016_01_30_193812_create_music_table.php",
+		"/C/wamp/www/blog/database/migrations/2016_01_30_200119_add_tab_to_music.php",
+		"/C/wamp/www/blog/database/migrations/2016_01_30_192937_create_music_table.php",
+		"/C/wamp/www/blog/app/Music.php",
+		"/C/wamp/www/blog/database/migrations/2016_01_30_154602_create_tasks_table.php",
+		"/C/wamp/www/blog/resources/views/common/errors.blade.php",
+		"/C/wamp/www/blog/resources/views/errors/503.blade.php",
+		"/C/wamp/www/concertguitartabs/module/Changelog/src/Changelog/Service/PostServiceInterface.php",
+		"/C/wamp/www/blog/config/database.php",
+		"/C/wamp/www/blog/app/User.php",
+		"/C/wamp/www/blog/config/app.php",
+		"/C/wamp/www/blog/public/index.php",
+		"/C/wamp/www/blog/bootstrap/autoload.php",
+		"/C/wamp/www/blog/bootstrap/app.php",
+		"/C/wamp/www/concertguitartabs/config/application.config.php",
+		"/C/wamp/www/concertguitartabs/module/Changelog/src/Changelog/Controller/ListController.php",
+		"/C/wamp/www/concertguitartabs/module/Changelog/config/module.config.php",
+		"/C/wamp/www/concertguitartabs/module/Changelog/Module.php",
+		"/C/wamp/www/concertguitartabs/module/Changelog/view/changelog/list/index.phtml",
+		"/C/wamp/www/concertguitartabs/module/Changelog/view/index.phtml",
+		"/C/wamp/www/concertguitartabs/module/Changelog/src/Changelog/view/index.phtml",
+		"/C/wamp/www/concertguitartabs/module/Changelog/Controller/ListController.php",
+		"/C/wamp/www/concertguitartabs/module/Album/src/Album/Form/AlbumForm.php",
+		"/C/wamp/www/concertguitartabs/module/Album/src/Album/Model/Album.php",
+		"/C/wamp/www/concertguitartabs/module/Album/view/album/album/delete.phtml",
+		"/C/wamp/www/concertguitartabs/module/Album/src/Album/Controller/AlbumController.php",
+		"/C/wamp/www/concertguitartabs/module/Album/view/album/album/add.phtml",
+		"/C/wamp/www/concertguitartabs/module/Album/view/album/album/edit.phtml",
+		"/C/wamp/www/concertguitartabs/module/Application/view/application/index/index.phtml",
+		"/C/wamp/www/concertguitartabs/module/Album/view/album/album/index.phtml",
+		"/C/wamp/www/concertguitartabs/module/Album/module.php",
+		"/C/wamp/www/concertguitartabs/module/Album/src/Album/Model/AlbumTable.php",
+		"/C/wamp/www/concertguitartabs/config/autoload/global.php",
+		"/C/wamp/www/concertguitartabs/config/autoload/local.php.dist",
+		"/C/wamp/www/concertguitartabs/module/Album/config/module.config.php",
+		"/C/wamp/www/concertguitartabs/module/Album/src/Controller/AlbumController.php",
+		"/C/wamp/www/concertguitartabs/module/Album/autoload_classmap.php",
+		"/C/wamp/www/concertguitartabs/module/Album/Module.php",
+		"/C/wamp/www/concertguitartabs/public/index.php",
+		"/C/Users/Gavin/Desktop/ZendFramework-2.4.9/LICENSE.txt",
+		"/C/Users/Gavin/Downloads/Bob's Burgers Complete Seasons 1-5 1080p [Phr0stY]/Season 5/Bob's Burgers S05E12 The Millie-churian Candidate (1920x1080) [Phr0stY].mkv",
+		"/C/Users/Gavin/Desktop/EconFiveFundamental/app.py",
+		"/C/Users/Gavin/Desktop/EconFiveFundamental/templates/index.html",
+		"/C/Users/Gavin/Desktop/EconFiveFundamental/Procfile.txt",
+		"/C/Users/Gavin/Desktop/EconFiveFundamental/runtime.txt",
+		"/C/Users/Gavin/Desktop/EconFiveFundamental/Procfile.txt.txt",
+		"/C/Users/Gavin/Desktop/EconFiveFundamental/requirements.txt",
+		"/C/Projects/gavingassmann.com/server.py",
+		"/C/Projects/gavingassmann.com/templates/index.html",
+		"/C/Projects/gavingassmann.com/static/css/material.gavingassmann.com.css",
+		"/C/Projects/gavingassmann.com/templates/directory.html",
+		"/C/Projects/gavingassmann.com/templates/base.html",
+		"/C/Projects/gavingassmann.com/templates/macros.html",
+		"/C/Projects/DoTA 2/dawngatedota/spiritgate.net/server.py",
+		"/C/Projects/gavingassmann.com/static/material-font/material-icons.css",
+		"/C/Projects/DoTA 2/dawngatedota/spiritgate.net/templates/page/about.html",
+		"/C/Projects/DoTA 2/dawngatedota/spiritgate.net/templates/purchasepack.html",
+		"/C/Projects/DoTA 2/dawngatedota/spiritgate.net/templates/index.html",
+		"/C/Projects/DoTA 2/dawngatedota/spiritgate.net/templates/account-info-pane.html",
+		"/C/Projects/DoTA 2/dawngatedota/spiritgate.net/templates/waystones.html",
+		"/C/Users/Gavin/Desktop/icon",
+		"/C/Projects/DoTA 2/dawngatedota/spiritgate.net/templates/base.html",
+		"/C/Projects/gavingassmann.com/template/index.html",
+		"/C/Projects/DoTA 2/dawngatedota/game/dota_addons/dawngatedota/scripts/vscripts/abilities/noble_shadow_night_strike_lua.lua",
+		"/C/Projects/DoTA 2/dawngatedota/game/dota_addons/dawngatedota/scripts/vscripts/gamemode.lua",
+		"/C/Projects/DoTA 2/dawngatedota/game/dota_addons/dawngatedota/scripts/npc/abilities/ability_noble_shadow_night_strike.txt",
+		"/C/Users/Gavin/Desktop/changelog.txt",
+		"/C/Projects/DoTA 2/dawngatedota/game/dota_addons/dawngatedota/scripts/vscripts/abilities/noble_shadow_shadowstep_lua.lua",
+		"/C/Projects/DoTA 2/dawngatedota/game/dota_addons/dawngatedota/scripts/vscripts/abilities/purifier_pure_blood_lua.lua",
+		"/C/Projects/DoTA 2/dawngatedota/game/dota_addons/dawngatedota/scripts/npc/abilities/ability_universal_ability.txt",
+		"/C/Projects/DoTA 2/dawngatedota/game/dota_addons/dawngatedota/scripts/vscripts/abilities/mad_king_flourish_lua.lua",
+		"/C/Projects/DoTA 2/dawngatedota/game/dota_addons/dawngatedota/scripts/npc/abilities/ability_mad_king_flourish.txt",
+		"/C/Projects/DoTA 2/dawngatedota/game/dota_addons/dawngatedota/scripts/npc/abilities/spell_tailwind.txt",
+		"/C/Projects/DoTA 2/dawngatedota/game/dota_addons/dawngatedota/scripts/npc/abilities/ability_typhoon_tidal_prison.txt",
+		"/C/Projects/DoTA 2/dawngatedota/game/dota_addons/dawngatedota/scripts/vscripts/abilities/rotting_tomb_desecrated_ground_lua.lua",
+		"/C/Projects/DoTA 2/dawngatedota/game/dota_addons/dawngatedota/scripts/npc/abilities/ability_rotting_tomb_desecrated_ground.txt",
+		"/C/Projects/DoTA 2/dawngatedota/game/dota_addons/dawngatedota/scripts/vscripts/events.lua",
+		"/C/Projects/DoTA 2/dawngatedota/game/dota_addons/dawngatedota/scripts/vscripts/abilities/typhoon_tidal_prison_lua.lua",
+		"/C/Program Files (x86)/Steam/steamapps/common/dota 2 beta/content/dota_addons/dawngatedota/tooltips_english.txt",
+		"/C/Projects/DoTA 2/dawngatedota/content/dota_addons/dawngatedota/panorama/layout/custom_game/hero_selection.xml",
+		"/C/Projects/DoTA 2/dawngatedota/content/dota_addons/dawngatedota/panorama/scripts/coffeescript/custom_game/hero_selection.coffee",
+		"/C/Projects/DoTA 2/dawngatedota/game/dota_addons/dawngatedota/scripts/npc/abilities/ability_universal_recall.txt",
+		"/C/Projects/DoTA 2/dawngatedota/game/dota_addons/dawngatedota/scripts/npc/abilities/ability_pure_shaper_shadow_fury.txt",
+		"/C/Projects/DoTA 2/dawngatedota/game/dota_addons/dawngatedota/resource/addon_english.txt",
+		"/C/Projects/DoTA 2/dawngatedota/game/dota_addons/dawngatedota/panorama/localization/addon_english.txt",
+		"/C/Projects/DoTA 2/dawngatedota/content/dota_addons/dawngatedota/addon_english_utf8.txt",
+		"/C/Projects/DoTA 2/dawngatedota/game/dota_addons/dawngatedota/scripts/npc/heroes/npc_dawngate_hero_noble_shadow.txt",
+		"/C/Projects/DoTA 2/dawngatedota/game/dota_addons/dawngatedota/scripts/vscripts/abilities/noble_shadow_nox_aeterna_lua.lua",
+		"/C/Projects/DoTA 2/dawngatedota/game/dota_addons/dawngatedota/scripts/vscripts/deal_damage.lua",
+		"/C/Projects/DoTA 2/dawngatedota/game/dota_addons/dawngatedota/scripts/vscripts/stat_finder.lua",
+		"/C/Projects/DoTA 2/dawngatedota/game/dota_addons/dawngatedota/scripts/npc/abilities/ability_noble_shadow_nox_aeterna.txt",
+		"/C/Projects/DoTA 2/dawngatedota/game/dota_addons/dawngatedota/scripts/npc/abilities/ability_noble_shadow_shadowstep.txt",
+		"/C/Projects/DoTA 2/dawngatedota/game/dota_addons/dawngatedota/scripts/npc/abilities/ability_noble_shadow_duskmantle.txt",
+		"/C/Projects/DoTA 2/dawngatedota/game/dota_addons/dawngatedota/scripts/vscripts/addon_game_mode.lua",
+		"/C/Projects/DoTA 2/dawngatedota/game/dota_addons/dawngatedota/scripts/vscripts/abilities/ancient_babysitter_access_memory_sentinel_lua.lua",
+		"/C/Projects/DoTA 2/dawngatedota/game/dota_addons/dawngatedota/scripts/vscripts/stat_application_ratios.lua",
+		"/C/Projects/DoTA 2/dawngatedota/game/dota_addons/dawngatedota/scripts/npc/herolist.txt",
+		"/C/Projects/DoTA 2/dawngatedota/game/dota_addons/dawngatedota/scripts/npc/abilities/ability_ancient_babysitter_access_memory_reaver.txt",
+		"/C/Projects/DoTA 2/dawngatedota/game/dota_addons/dawngatedota/scripts/vscripts/abilities/ancient_babysitter_access_memory_reaver_lua.lua",
+		"/C/Projects/DoTA 2/dawngatedota/game/dota_addons/dawngatedota/scripts/vscripts/mapscripts/spiritwell.lua",
+		"/C/Projects/DoTA 2/dawngatedota/game/dota_addons/dawngatedota/scripts/vscripts/abilities/ancient_babysitter_reconfigure_lua.lua",
+		"/C/Projects/DoTA 2/dawngatedota/game/dota_addons/dawngatedota/scripts/npc/heroes/npc_dawngate_hero_ancient_babysitter.txt",
+		"/C/Projects/DoTA 2/dawngatedota/game/dota_addons/dawngatedota/scripts/npc/heroes/npc_dawngate_hero_art_prodigy.txt",
+		"/C/Users/Gavin/AppData/Local/Temp/Temp1_spiritwell update.zip/spiritwell update/models/heroes/spiritwell/spiritwell_lock.vmdl",
+		"/C/Projects/DoTA 2/dawngatedota/game/dota_addons/dawngatedota/scripts/vscripts/mapscripts/well.lua",
+		"/C/Users/Gavin/Desktop/Game.GetPlayerInfo(player)",
+		"/C/Projects/DoTA 2/dawngatedota/content/dota_addons/dawngatedota/panorama/scripts/coffeescript/custom_game/shop_ui.coffee",
+		"/C/Projects/DoTA 2/dawngatedota/spiritgate.net/config.py",
+		"/C/Program Files (x86)/PuTTY/README.txt",
+		"/C/Projects/DoTA 2/dawngatedota/spiritgate.net/requirements.txt",
+		"/C/Users/Gavin/Desktop/wow/Renowned Explorers/abbeycore.txt",
+		"/C/Projects/DoTA 2/dawngatedota/content/dota_addons/dawngatedota/panorama/scripts/custom_game/hero_selection.js",
+		"/C/Projects/DoTA 2/dawngatedota/game/dota_addons/dawngatedota/scripts/vscripts/mapscripts/jungle.lua",
+		"/C/Projects/DoTA 2/dawngatedota/game/dota_addons/dawngatedota/scripts/vscripts/spiritgate_math_util.lua"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\wamp\\www\\",
+			"D:\\Projects\\dawngatedota\\game\\dota_addons\\dawngatedota",
+			"D:\\Projects\\dawngatedota\\game\\dota_addons\\dawngatedota\\scripts",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"https://raw.githubusercontent.com/mudcube/MIDI.js/master",
+			"task",
+			"musics",
+			"RewriteCond",
+			"VirtualHost",
+			"OnAssist",
+			"predator",
+			"OnAssist",
+			"kill_assist",
+			"assist",
+			"modifier_jungle_buff_armour_reduction_hidden",
+			"jungle",
+			"damage",
+			"well.pid",
+			"print",
+			"api",
+			"http://",
+			"SelectShaper",
+			"selectskin",
+			"select",
+			"regen",
+			"gladiat",
+			"tactician",
+			"0",
+			"GetNumber",
+			"Send_ServerToPlayer",
+			"$.Msg",
+			"for",
+			"HEALTH RATIO",
+			"HEALTH RATIO:",
+			"HEALTH COST",
+			"gale",
+			"gake",
+			"haste",
+			"$.Msg",
+			"npc_jungle_scary_fish",
+			"jungle",
+			"kill",
+			"modifier_jungle_buff_armour",
+			"jungle",
+			"modifier_jungle",
+			"haste_",
+			"particles/jungle_buffs/haste_buff.vpcf",
+			"ParticleManager:",
+			"modifier_jungle_buff_haste",
+			"buff",
+			"ability_universal_ability_ward",
+			"caster:HasModifier",
+			"background-color",
+			"=\"\"/>",
+			"\"\"\n",
+			"First cast",
+			"potency",
+			"barebones_spew",
+			"spew",
+			"resolut",
+			"deal_on_hit",
+			"ruin",
+			"conquest",
+			"retribution",
+			"ApplyDamage",
+			"target",
+			"momentum",
+			"is_ability",
+			"inspiration",
+			":\n",
+			"GetAbilityByName",
+			"PlayerPanealRoleImage",
+			"activ",
+			"Event",
+			"disable_abilit",
+			"q",
+			"resource",
+			"$.Msg",
+			"ADDED <font color='#f8d754'>LIFEDRAIN</font>",
+			"DEFENSE P",
+			"ADDED HEALTH",
+			"<font color='#ff3333'>LIFE</font>DRAIN",
+			"ADDED MASTERY",
+			"ADDED ARMOUR",
+			"ADDED MAGIC RESISTANCE",
+			"ADDED HASTE",
+			"ADDED DEFENSE PENETRATION",
+			"ADDED LIFE",
+			"ADDED POWER",
+			"might",
+			"$.Msg",
+			"text-shad",
+			"margin: ",
+			"spell",
+			"event",
+			"margin-bottom",
+			"$.Msg",
+			"double_Click_tester = false",
+			"   	",
+			"    ",
+			"vigor",
+			"greivous",
+			"recast",
+			"caster.",
+			"$.Msg(",
+			"Send_ServerToPlayer",
+			"Game.GetPlayerInfo",
+			".target = ",
+			"league",
+			"PlayerResource",
+			"GameUI.SetMouseCallback",
+			"28px",
+			"npc_dota_hero_brewmaster        ",
+			"self:GetCaster():GetAttackAnimationPoint()",
+			"passive:",
+			"fow",
+			"has_selected",
+			"selected_hero",
+			"event.target_",
+			"order",
+			"LocalPlayer",
+			"binding_01",
+			"PlayerInfoExtendedBottomPanel",
+			"red",
+			"bounty_near_application_ratios",
+			"print",
+			"USE_STANDARD_HERO_GOLD_BOUNTY",
+			"order",
+			"cast",
+			"POWER RATIO",
+			"font color=",
+			"recast"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"https://cdn.rawgit.com/mudcube/MIDI.js/master/",
+			"PlayerPanelRoleImage",
+			"ADDED <font color='#fffe6c'>LIFEDRAIN</font>",
+			"ADDED <font color='#ff3333'>LIFE</font>",
+			"<font color='#f8d754'>LIFEDRAIN</font>",
+			"ADDED <font color='#00faff'>MASTERY</font>",
+			"ADDED <font color='#f5c562'>ARMOUR</font>",
+			"ADDED <font color='#e39eed'>MAGIC RESISTANCE</font>",
+			"ADDED <font color='#d1deff'>HASTE</font>",
+			"ADDED <font color='#b8ffb3'>DEFENSE PENETRATION</font>",
+			"ADDED <font color='#ff3333'>LIFE</font>",
+			"ADDED <font color='#54ff52'>POWER</font>",
+			"		",
+			"	",
+			"grievous",
+			"npc_dota_hero_beastmaster       ",
+			"self:GetCaster():GetAttackAnimationPoint() / 3",
+			"binding",
+			"<font color='#54ff52'>POWER RATIO</font>",
+			"ability_ability_high_huntress_wing_clip",
+			"%%",
+			"art_prodigy"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/wamp/bin/apache/apache2.4.9/conf/httpd.conf",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20634,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20355,
+								20364
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9368.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resources/views/music.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7805,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5378,
+								5378
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 1674.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "resources/views/tab.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 367,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								367,
+								367
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "resources/views/layouts/app.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1597,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1168,
+								1168
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/Http/routes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1637,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1098,
+								1098
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 378.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "blog.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Projects\\DoTA 2\\dawngatedota\\spiritgate.net\\spiritgate.sublime-project"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 490.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 780.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 388.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
