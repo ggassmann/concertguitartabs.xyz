@@ -55,9 +55,9 @@ return [
         'mysql' => [
             'driver'    => 'mysql',
             'host'      => env('DB_HOST', 'localhost'),
-            'database'  => 'database',
+            'database'  => 'db',
             'username'  => 'root',
-            'password'  => '',
+            'password'  => 'Gigimoi00',
             'charset'   => 'utf8',
             'collation' => 'utf8_unicode_ci',
             'prefix'    => '',
