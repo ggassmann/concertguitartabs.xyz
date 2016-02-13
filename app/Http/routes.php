@@ -2,10 +2,14 @@
 
 use App\Music;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Input;
 
 Route::group(['middleware' => 'web'], function() {
 	Route::get('/', function() {
-		$musics = Music::orderBy('composer', 'asc')->get();
+		$musics = Music::orderBy('composer', 'asc')
+			->where('midiurl',   '!=', Input::get('midi' ) == "true" ? '' : "ASDASDASD")
+			->where('videourls', '!=', Input::get('video') == "true" ? '' : "ASDASDASD")
+			->get();
 
 		foreach ($musics as $music => $val) {
 			if(strlen($val->midiurl) > 0) {

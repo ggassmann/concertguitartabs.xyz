@@ -80,6 +80,25 @@
         <script type='text/javascript' src='http://www.midijs.net/lib/midi.js'></script>
         <link href="/jquery_image_quickview.css" rel="stylesheet" type="text/css">
         <script>
+            $(document).ready(function() {
+                $(".input-checkbox").mousedown(function() {
+                    var requireType = $(this).data("requireType");
+                    var isChecked = $(this).is(":checked");
+                    window.location = URI(window.location).search(function(data) {
+                        if(isChecked) {
+                            data[requireType] = "false"
+                        } else {
+                            data[requireType] = "true"
+                        }
+                    });
+                })
+                if(window.location.search.indexOf("midi=true") > -1) {
+                    $("#midicheckbox").prop('checked', true);
+                }
+                if(window.location.search.indexOf("video=true") > -1) {
+                    $("#videocheckbox").prop('checked', true);
+                }
+            })
             var currentSong = ""
             var currentID = -1
 
@@ -165,8 +184,22 @@
                     <thead>
                         <th style="width:65%">Music</th>
                         <th>Tab</th>
-                        <th>MIDI</th>
-                        <th>Video(s)</th>
+                        <th>
+                            <label>
+                                <div class="checkbox">
+                                    <input id="midicheckbox" class="input-checkbox" style="position: inherit;" data-require-type="midi" type="checkbox"/>
+                                </div>
+                            </label>
+                            MIDI
+                        </th>
+                        <th>
+                            <label>
+                                <div class="checkbox">
+                                    <input id="videocheckbox" class="input-checkbox" style="position: inherit;" data-require-type="video" type="checkbox"/>
+                                </div>
+                            </label>
+                            Video
+                        </th>
                     </thead>
                     <tbody>
                         <?php 
