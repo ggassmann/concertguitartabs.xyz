@@ -56,11 +56,13 @@ Route::group(['middleware' => 'web'], function() {
 	        'tab'        => 'required',
 	    ]);
 	    if(strcmp(trim(DB::table('passphrases')->where('name', 'addsong')->pluck('passphrase')[0]), trim($request->passphrase)) !== 0) {
-	    	return redirect('/');
+	    	return redirect('/addmusic?wrongpassword=true')
+	            ->withInput()
+	            ->withErrors($validator);
 	    }
 
 	    if ($validator->fails()) {
-	        return redirect('/')
+	        return redirect('/addmusic')
 	            ->withInput()
 	            ->withErrors($validator);
 	    }
