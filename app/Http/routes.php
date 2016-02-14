@@ -43,6 +43,9 @@ Route::group(['middleware' => 'web'], function() {
 	Route::get('/about', function() {
 		return view('about');
 	});
+	Route::get('/readingGuitarTab', function() {
+		return view('readingGuitarTab');
+	});
 	Route::get('/addmusic', function() {
 		return view('music', [
 			'is_adding_music' => true,

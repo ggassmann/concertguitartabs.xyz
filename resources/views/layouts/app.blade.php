@@ -29,8 +29,9 @@
             <div class="nav">
                 <ul class="nav nav-pills">
                     <li id="homeTab" role="presentation"><a href="/">Home</a></li>
-                    <li id="addMusicTab" role="presentation"><a href="/addmusic">Add Music (Admin Only)</a></li>
                     <li id="aboutTab" role="presentation"><a href="/about">About</a></li>
+                    <li id="readingGuitarTab" role="presentation"><a href="/readingGuitarTab">Guide to Reading Guitar Tab</a></li>
+                    <li id="addMusicTab" role="presentation"><a href="/addmusic">Add Music (Admin Only)</a></li>
                 </ul>
             </div>
         </nav>
