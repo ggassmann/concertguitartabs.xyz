@@ -151,7 +151,18 @@
 
             }
         </script>
-
+        <div>
+            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <!-- concert guitar tabs top -->
+            <ins class="adsbygoogle"
+                 style="display:block"
+                 data-ad-client="ca-pub-2956830903480328"
+                 data-ad-slot="5072780097"
+                 data-ad-format="auto"></ins>
+            <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+        </div>
         <div class="panel panel-default">
             <?php
                 srand(idate("z") + idate("Y") + idate("w") + idate("t") + idate("m") + idate("d"));

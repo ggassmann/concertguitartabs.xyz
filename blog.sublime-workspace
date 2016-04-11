@@ -536,26 +536,42 @@
 			}
 		},
 		{
-			"file": "app/Http/routes.php",
-			"settings":
-			{
-				"buffer_size": 2386,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "resources/views/layouts/app.blade.php",
 			"settings":
 			{
-				"buffer_size": 1802,
+				"buffer_size": 1933,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "public/concertguitartabs.css",
+			"file": "app/Http/routes.php",
 			"settings":
 			{
-				"buffer_size": 146,
+				"buffer_size": 2472,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/readingGuitarTab.blade.php",
+			"settings":
+			{
+				"buffer_size": 8622,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Gavin/Desktop/changelog.txt",
+			"settings":
+			{
+				"buffer_size": 1067,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/about.blade.php",
+			"settings":
+			{
+				"buffer_size": 962,
 				"line_ending": "Windows"
 			}
 		}
@@ -610,14 +626,15 @@
 		"/C/wamp/www/blog/app",
 		"/C/wamp/www/blog/app/Http",
 		"/C/wamp/www/blog/resources",
-		"/C/wamp/www/blog/resources/assets",
-		"/C/wamp/www/blog/resources/assets/sass",
 		"/C/wamp/www/blog/resources/views",
-		"/C/wamp/www/blog/resources/views/common",
-		"/C/wamp/www/blog/resources/views/layouts"
+		"/C/wamp/www/blog/resources/views/layouts",
+		"/C/wamp/www/blog/vendor"
 	],
 	"file_history":
 	[
+		"/C/wamp/www/blog/resources/views/about.blade.php",
+		"/C/wamp/www/blog/public/concertguitartabs.css",
+		"/C/wamp/www/blog/resources/views/layouts/app.blade.php",
 		"/C/wamp/www/blog/public/vanilla_extensions.js",
 		"/C/wamp/www/blog/resources/views/common/errors.blade.php",
 		"/C/wamp/bin/apache/apache2.4.9/conf/httpd.conf",
@@ -626,11 +643,9 @@
 		"/C/wamp/www/blog/app/Http/routes.php",
 		"/C/wamp/www/blog/config/app.php",
 		"/C/wamp/www/blog/resources/views/music.blade.php",
-		"/C/wamp/www/blog/resources/views/layouts/app.blade.php",
 		"/C/wamp/www/blog/resources/views/tab.blade.php",
 		"/C/wamp/www/blog/database/migrations/2016_01_30_225933_add_midi_to_music.php",
 		"/C/wamp/www/blog/database/migrations/2016_01_30_231635_add_videos_to_music.php",
-		"/C/wamp/www/blog/resources/views/about.blade.php",
 		"/C/wamp/www/index.php",
 		"/C/wamp/www/blog/database/migrations/2016_01_30_205318_create_passphrase_table.php",
 		"/C/wamp/www/blog/storage/logs/laravel.log",
@@ -744,8 +759,7 @@
 		"/C/Projects/DoTA 2/dawngatedota/content/dota_addons/dawngatedota/panorama/scripts/coffeescript/custom_game/shop_ui.coffee",
 		"/C/Projects/DoTA 2/dawngatedota/spiritgate.net/config.py",
 		"/C/Program Files (x86)/PuTTY/README.txt",
-		"/C/Projects/DoTA 2/dawngatedota/spiritgate.net/requirements.txt",
-		"/C/Users/Gavin/Desktop/wow/Renowned Explorers/abbeycore.txt"
+		"/C/Projects/DoTA 2/dawngatedota/spiritgate.net/requirements.txt"
 	],
 	"find":
 	{
@@ -934,7 +948,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 5,
 			"sheets":
 			[
 				{
@@ -964,7 +978,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
@@ -994,53 +1008,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "app/Http/routes.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2386,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1872,
-								1872
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 486.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
 					"file": "resources/views/layouts/app.blade.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1802,
+						"buffer_size": 1933,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								968,
-								968
+								1414,
+								1414
 							]
 						],
 						"settings":
@@ -1053,29 +1038,114 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "public/concertguitartabs.css",
+					"buffer": 3,
+					"file": "app/Http/routes.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 146,
+						"buffer_size": 2472,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								77,
-								77
+								1288,
+								1288
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax"
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 486.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "resources/views/readingGuitarTab.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8622,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8110,
+								8110
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2590.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/Gavin/Desktop/changelog.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1067,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								607,
+								607
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Dota Reborn Package/dota-kv/dotaKV.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "resources/views/about.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 962,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								907,
+								907
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1146,7 +1216,7 @@
 		[
 			[
 				"",
-				"C:\\Projects\\DoTA 2\\dawngatedota\\spiritgate.net\\spiritgate.sublime-project"
+				"C:\\Projects\\DoTA 2\\dawngatedota\\spiritgate.sublime-project"
 			]
 		],
 		"width": 475.0

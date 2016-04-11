@@ -142,8 +142,26 @@
 		    	<div class="panel-body">
 		    		<p style="font-family:monospace; line-height: 120%;">
 		    			Timing is one of the most difficult parts of Tablature and its primary downfall in comparison to standard sheet music.<br/>
-		    			<h1>W.I.P. - Will complete at a later date</h1>
+		    			One reason is that creating timed tablature is hard, and the tabber has better things to do (Such as creating more tabs)<br/>
+		    			There are quite a few different timing setups that you'll come across, we'll start with the worst case and move to the best case.<br/>
 			    	</p>
+		    		<div class="panel panel-default">
+		    			<div class="panel-heading">Spacing Based Timing / No Timing</div>
+		    			<div class="panel-body">
+		    				<p style="font-family:monospace; line-height: 120%;">
+								E|--------------------------|---------------------|------------------------|<br/>
+								B|-----3-----1-----0--------|-----------1----1----|--1----0-----0--1--3----|<br/>
+								G|--1-----2--------------1--|--2------------------|----------2-------------|<br/>
+								D|--2-----------0-----2-----|--2--------2----2----|--0----------0----------|<br/>
+								A|--------------------------|--0--------0---------|------------------------|<br/>
+								E|--------------------------|----------------3----|--2----------2----------|<br/><br/>
+								(From <a href="/music/tab/191" target="_blank">BWV 1012 - Gavottes I and II - Cello Suite No 6 in D
+ by Johann Sebastian Bach</a>)<br/><br/>
+								This method of denoting time is a nightmare when you don't know the piece you're about to play. Luckily, it's not common in classical music.<br/>
+								When sight reading, you sort of need to guess the timing based on how many -'s there are between each note - as well as how many notes are in each line.<br/>
+					    	</p>
+		    			</div>
+		    		</div>
 		    	</div>
 		    </div>
 	    </div>
